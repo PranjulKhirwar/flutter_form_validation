@@ -1,6 +1,6 @@
 # form_validation
 
-A new Flutter project.
+A Flutter project to practice form validation.
 
 ## Getting Started
 
